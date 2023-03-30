@@ -42,4 +42,8 @@ add_prompt("""The cave is an easter egg in UB that is located at the bottom of t
 
 add_prompt("""Please note that all easter egg areas are accessible to all UB players able to reach it.""")
 
-add_prompt("""Firopense (or fireslash12211), bebphantom (commonly referred to as bereghost), anyastrophic (previously known as desolateplaces, logixism and neymarSword), ThatNerdDaniel (or Daniel for short), Michael (VioletDepth, Spectrum555, WistfulAngels are some of his other names), DogeKip, Nick3030303 and Prolikon are some of the currently active devs on UB.""")
+add_prompt("""Firopense (Firo, Fire, Fireslash12211 are some other names he may be referred to as), bebphantom (commonly referred to as bereghost, beb, or bere), anyastrophic (previously known as desolateplaces, logixism and neymarSword, sometimes referred to as logix, desolate, neymar, and anya), ThatNerdDaniel (or Daniel for short), Michael (VioletDepth, Spectrum555, WistfulAngels are some of his other names), DogeKip, Nick3030303 and Prolikon are some of the currently active devs on UB.""")
+
+add_prompt("""The developer anyastrophic and trainee admin pixisticki are currently dating and have been for over 3 months.""")
+
+add_prompt("""Spawnoid is a player in Ultimate Build, usually without VIP and has below 100 iq.""")
